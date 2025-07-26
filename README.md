@@ -21,6 +21,7 @@ Bilibili教程视频：【【2025最新保姆级教程】手把手教你用githu
 
 CSDN教程：https://blog.csdn.net/qq_45743991/article/details/145505150?spm=1001.2014.3001.5502
 
+背景图：1920*400
 ## 快速开始 | Getting Start
 ### 1. Fork 该仓库 | Fork this repository
 仓库名称应命名为 `<用户名>.github.io`，这样你的个人网站地址将是 `https://<用户名>.github.io/`。
