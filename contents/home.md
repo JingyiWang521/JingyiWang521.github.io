@@ -10,6 +10,5 @@ I'm currently pursuing a Master's degree in XX at School of Optics and Photonics
 #### Education
 **Beijing Institute of Technology**, Master of School of Optics and Photonics(2024 – ) 
 
-
 **Beijing Institute of Technology**, Bachelor of School of Optics and Photonics(2020 – 2024) 
 • GPA: 3.8/4.0
